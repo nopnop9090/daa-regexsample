@@ -25,7 +25,7 @@ public class RegexParser {
                         System.out.println("Runtime: " + matcher.group("Runtime"));
                         System.out.println("EMail: " + matcher.group("EMail"));
                         if(p==0)
-                        	System.out.println("UserID: " + (matcher.group("UserID") == null ? "1" : "0"));
+                        	System.out.println("UserID: " + matcher.group("UserID"));
                         System.out.println("Role: " + matcher.group("Role"));
                         System.out.println();
                         break;
