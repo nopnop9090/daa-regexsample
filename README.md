@@ -1,5 +1,6 @@
 # daa-regexsample
-Beispielcode zum Einlesen von MS Teams Meetingprotokollen im Semikolon-getrennten CSV Format
+Beispielcode zum Einlesen von MS Teams Meetingprotokollen im Semikolon-getrennten CSV Format.
+Die genutzten regulären Ausdrücke werden aufgeschlüsselt dargestellt unter https://regex101.com/r/Reobcy/1 und https://regex101.com/r/8jORGs/1
 
 # Beispielausgabe für die Datei meetingmuster.csv:
 ```
